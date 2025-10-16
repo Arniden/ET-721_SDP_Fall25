@@ -33,4 +33,5 @@ def main():
 
     # calculate average grade
     average = total_sum_grades / num_students
+    print("Arniden was here")
 
