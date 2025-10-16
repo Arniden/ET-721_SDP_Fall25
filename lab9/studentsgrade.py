@@ -34,9 +34,3 @@ def main():
     # calculate average grade
     average = total_sum_grades / num_students
 
-    """
-    Arnaud Tadonkeng
-    Oct 8, 2025
-    Lab 9, test input and output data
-    """
-    # function to collect students' grade and return the average of the grades
