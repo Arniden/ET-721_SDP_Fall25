@@ -1,4 +1,6 @@
 """
+Arnaud Tadonkeng
+Oct 17, 2025
 Unit test for email_read() in lab7_function.py
 """
 import unittest
