@@ -4,7 +4,6 @@ Oct 22, 2025
 Lab 11: APIs
 '''
 import pandas as pd
-
 # ----------
 # 1. Example Dataframe (small APIs)
 # ----------
